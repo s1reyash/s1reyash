@@ -1,240 +1,147 @@
+<div align="center">
+
 # Hey, I'm Shreyash 👋
 
-### Full-Stack Developer · AI/LLM Analyst · Computer Engineering '25
+### I turn everyday business problems into useful software.
 
-I build software for real businesses, experiment with AI, break things occasionally, and then pretend debugging was part of the plan.
+Full-Stack Developer · AI/LLM Analyst · Computer Engineering ’25
 
-Most of my work revolves around taking something that is currently being managed through notebooks, spreadsheets, WhatsApp messages, or pure human memory and turning it into an actual system.
+🌐 Web applications &nbsp; · &nbsp; ⚙️ Business systems &nbsp; · &nbsp; 🤖 AI & automation
 
-Sometimes that means a website.
+[💼 LinkedIn](https://www.linkedin.com/in/shreyash8421/) &nbsp; • &nbsp; [🧑‍💻 Explore my code](https://github.com/s1reyash?tab=repositories)
 
-Sometimes it means a complete full-stack platform.
+**[About](#-a-little-about-me) · [Client work](#-systems-ive-shipped) · [Toolkit](#-my-toolkit) · [AI](#-the-ai-side) · [Connect](#-lets-build-something-useful)**
 
-Sometimes it starts with:
-
-> “We just need a simple website.”
-
-...and somehow ends with authentication, dashboards, billing, analytics, APIs, and three different user roles.
-
-Welcome to software development.
+</div>
 
 ---
 
-## 👨‍💻 What I Actually Do
+## 🧭 A little about me
 
-I work with local businesses and build whatever makes their day-to-day operations easier.
+I build software for real businesses—turning notebooks, spreadsheets, WhatsApp messages, and “I'll remember that” into systems people can actually use.
 
-That usually includes:
+Sometimes it starts with *“We just need a simple website.”* Then come the dashboards, billing, APIs, and three different user roles. Welcome to software development. ☕
 
-- Websites
-- Full-stack web applications
-- Business management systems
-- Authentication & role-based access
-- Dashboards and analytics
-- Billing systems
-- Customer / patient / student management
-- Messaging workflows
-- API integrations
-- Automation
-- Local SEO and Google Business optimization
+> 💡 **If your workflow starts with “we currently manage this manually…”—I'm interested.**
 
-Basically, if someone says:
+| 🌐 Build | ⚙️ Connect | 📊 Simplify |
+| :--- | :--- | :--- |
+| Websites & full-stack applications | REST APIs & Google Sheets integrations | Dashboards & business reporting |
+| Authentication & role-based access | Messaging & automation workflows | Billing & record management |
+| Customer, patient & student systems | Database-driven applications | Local SEO & Google Business optimization |
 
-> “We currently manage this manually...”
+## 🚀 Systems I've shipped
 
-I'm interested.
+A few client projects I've built and deployed. Client identities stay private; the engineering is what matters here. **Click a project to explore.** 👇
 
----
+<details open>
+<summary><b>🏥 Clinic Management Platform</b> — daily operations, in one place</summary>
 
-## 🚀 Client Work
+Built for a healthcare business that needed easier daily operations and local data storage.
 
-I keep client identities private, but here are a few systems I've built and deployed.
+- 👥 Patient records and visit tracking
+- 🧾 Billing and messaging workflows
+- 📈 Monthly business analytics and reporting
+- 🗄️ Local database storage
 
-### 🏥 Clinic Management Platform
+**Built with:** React · HTML · CSS · Tailwind CSS · MySQL · Git/GitHub
 
-Built a full-stack management system for a healthcare business that needed a better way to manage daily operations and store data locally.
+*Yes, spreadsheets could technically do some of this. No, I did not choose peace.*
 
-The platform includes:
+</details>
 
-- Patient management
-- Billing
-- Messaging
-- Patient visit tracking
-- Monthly business analytics
-- Data reporting
-- Local database storage
+<details>
+<summary><b>🦷 Multi-User Healthcare System</b> — the right access for the right person</summary>
 
-**Tech:** React · HTML · CSS · Tailwind CSS · MySQL · Git/GitHub
+A healthcare management platform where staff handle patient information and administrators manage the wider business.
 
-Yes, spreadsheets could technically do some of this.
+- 🔐 Login authentication and role-based permissions
+- 👥 Patient records, billing, and messaging
+- 🧭 Activity tracking and business reporting
+- 🔗 Google Sheets integration
 
-No, I did not choose peace.
+**Built with:** React · HTML · CSS · Google Sheets API · Git/GitHub
 
----
+*The interesting part wasn't another form. It was making sure the right person could see the right thing at the right time.*
 
-### 🦷 Multi-User Healthcare Management System
+</details>
 
-Built another healthcare management platform, this time with multiple levels of access.
+<details>
+<summary><b>🎓 Education Management Platform</b> — from registration to the right classroom</summary>
 
-Staff members can manage patient information while administrators have greater control over the platform and business data.
+A public website and internal management system for a coaching institute, supporting students, faculty, staff, and administrators.
 
-Features include:
+**Registration → Staff verification → Batch assignment → Approved access**
 
-- Login authentication
-- Role-based permissions
-- Patient records
-- Billing workflows
-- Messaging
-- Activity tracking
-- Google Sheets integration
-- Business reporting
+- 📝 Admissions and student tracking
+- 🧾 Billing and messaging
+- 🛡️ Role-based access and protected administrative features
+- 🔗 Google Sheets integration
+- 🔎 SEO and local search optimization
 
-**Tech:** React · HTML · CSS · Google Sheets API · Git/GitHub
+**Built with:** Next.js · React · Tailwind CSS · HTML/CSS · Google Sheets API · Git/GitHub
 
-The interesting part wasn't building another form.
+*It started as a website. It did not remain a website.*
 
-It was making sure the right person could see the right thing at the right time.
+</details>
 
----
+## 🧰 My toolkit
 
-### 🎓 Education Management Platform
+| Area | Technologies |
+| :--- | :--- |
+| 🎨 **Frontend** | React · Next.js · JavaScript · HTML5 · CSS3 · Tailwind CSS |
+| 🗄️ **Data & integrations** | MySQL · SQL · Google Sheets API · REST APIs · JSON |
+| 🤖 **AI & analysis** | Python · AI/LLMs · Prompt Engineering · Data Analysis |
+| 🛠️ **Development** | Git · GitHub · VS Code |
+| 🧩 **Also worked with** | Salesforce Apex · LWC · SOQL · Flows · Power BI |
 
-Built a public-facing website and internal management system for a coaching institute.
+*I don't know every framework. I do know how to Google an error message responsibly. Most of the time.* 🔍
 
-The platform supports multiple user types including:
+## 🤖 The AI side
 
-- Students
-- Faculty
-- Staff
-- Administrators
+Alongside development, I work in **AI/LLM analysis**, evaluating model responses for:
 
-New students don't automatically get access after registering.
+🎯 Accuracy & relevance &nbsp; · &nbsp; 🛡️ Safety & guideline compliance &nbsp; · &nbsp; 🧭 Instruction following & response quality
 
-Their request first goes through an approval workflow, staff verify the registration, assign the appropriate batch, and only then is access enabled.
+Working with AI has taught me that a response can be incredibly confident and completely wrong. Debugging instincts come in handy here, too.
 
-The platform also includes:
+## 🌱 What I'm growing next
 
-- Student admissions
-- Billing
-- Messaging
-- Student tracking
-- Role-based access control
-- Protected administrative features
-- Google Sheets integration
-- SEO optimization
-- Local SEO
+I'm deepening my skills in **backend architecture, APIs, database-driven applications, authentication, cloud fundamentals, and testing**, while exploring AI-assisted development.
 
-**Tech:** Next.js · React · Tailwind CSS · HTML/CSS · Google Sheets API · Git/GitHub
+The goal: understand **why systems work** and build software that survives beyond `npm run dev`.
 
-It started as a website.
+## 📌 Explore my work
 
-It did not remain a website.
+### 🛠️ [MaintainerKit →](https://github.com/s1reyash/maintainerkit)
 
----
+A model-agnostic maintainer operations toolkit for PR review, triage, release notes, and risk evidence.
 
-## 🧰 Tech I Use
+[📂 Browse all repositories](https://github.com/s1reyash?tab=repositories) &nbsp; · &nbsp; [📈 See my GitHub activity](https://github.com/s1reyash#contributions)
 
-### Frontend
-
-`React` `Next.js` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
-
-### Data & Integrations
-
-`MySQL` `SQL` `Google Sheets API` `REST APIs` `JSON`
-
-### AI & Data
-
-`Python` `AI/LLMs` `Prompt Engineering` `Data Analysis`
-
-### Development
-
-`Git` `GitHub` `VS Code`
-
-### Other Things I've Worked With
-
-`Salesforce Apex` `LWC` `SOQL` `Flows` `Power BI`
-
-I don't claim to know every framework ever created.
-
-I do know how to Google an error message responsibly.
-
-Most of the time.
-
----
-
-## 🤖 My AI/LLM Side
-
-I also work in AI/LLM analysis, where I evaluate model outputs for things like:
-
-- Accuracy
-- Relevance
-- Safety
-- Instruction following
-- Response quality
-- Guideline compliance
-
-Working around AI every day has taught me two things:
-
-1. AI can be extremely useful.
-2. AI can also be extremely confident while being completely wrong.
-
-Which, unfortunately, is also true for developers.
-
----
-
-## 🧪 Currently Learning / Building
-
-Right now I'm focused on getting better at:
-
-- Full-stack application development
-- Backend architecture
-- APIs
-- JavaScript & React
-- Database-driven applications
-- Authentication and security
-- Cloud fundamentals
-- Testing
-- AI-assisted development
-- Building software that survives after `npm run dev`
-
-I'm especially interested in understanding **why systems work**, not just copying enough code to make the error disappear.
-
-Although making the error disappear is still very satisfying.
-
----
-
-## 📌 Featured Work
-
-I'm slowly cleaning up and documenting the projects worth showing publicly.
-
-My rule is simple:
+<details>
+<summary><b>💭 My approach to building</b></summary>
 
 **Build first. Document properly. Then pin it.**
 
-No fake hype.
+I'm gradually cleaning up and documenting the projects worth sharing publicly. Useful software, clear explanations, and curiosity about how things work—that's the direction.
 
-No “revolutionary AI-powered disruption platform” because I added an API call.
+Still building. Still learning. Still occasionally wondering why the exact same code worked yesterday. 🐛
 
-Just useful software.
-
----
-
-## 📈 GitHub
-
-Still building.
-
-Still learning.
-
-Still occasionally wondering why the exact same code worked yesterday.
+</details>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-I'm interested in opportunities around:
+## 🤝 Let's build something useful
 
-**Full-Stack Development · Web Engineering · Backend Systems · AI · Automation · APIs · Cloud**
+Interested in **Full-Stack Development · Web Engineering · Backend Systems · AI · Automation · APIs · Cloud**.
 
-If you're building something useful, solving an actual problem, and don't mind someone asking “but why does it work that way?” — we'll probably get along.
+If you're solving a real problem and don't mind someone asking *“but why does it work that way?”*—we'll probably get along.
 
-[LinkedIn](https://www.linkedin.com/in/shreyash8421) · [GitHub](https://github.com/s1reyash)
+### [💼 Connect on LinkedIn](https://www.linkedin.com/in/shreyash8421/) &nbsp; · &nbsp; [💻 Find me on GitHub](https://github.com/s1reyash)
+
+<sub>Curiosity → Code → Useful software ✨</sub>
+
+</div>
