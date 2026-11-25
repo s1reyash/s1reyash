@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shreyash 👋
+# Shreeyassh 👋
 
 **Full-Stack Developer · AI/LLM Analyst**
 
